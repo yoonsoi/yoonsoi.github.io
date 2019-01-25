@@ -1,20 +1,20 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: developer 
+email: soi.yoon624@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: develope 
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
-deviantart: username
-codepen: username
+facebook: 
+linkedin: 
+github: yoonsoi
+deviantart: 
+codepen: 
 
-footer: © Taken theme
+footer: © 
 
 # Build settings
-markdown: kramdown
+markdown: 
